@@ -1,6 +1,6 @@
 # TodoList_Ile_BottomNavigationBar_Kullanimi
 
-Merhaba Arkadaşlar ben arda bugün sizlerle birlikte flutter'da bir BottomNavigationBar'ın kullanımı size bir örnek ile österdim sizde dosyayı indirerekten bakabilirsiniz.
+Merhaba Arkadaşlar ben arda bugün sizlerle birlikte flutter'da bir BottomNavigationBar'ın kullanımı size bir örnek ile gösterdim sizde dosyayı indirerekten bakabilirsiniz.
 Kanalımı takip etmeyi unutmayın.
 
 Ekran görüntüleri:
